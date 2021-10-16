@@ -1,3 +1,5 @@
 this is master
 
 This is branch A and change
+
+This is branch B
